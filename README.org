@@ -4,6 +4,6 @@ Micro slime/swank with forked SLIME
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/lem-project/micros.git |
-| commit  | 0df533d                                       |
+| commit  | 9fc7f1e                                       |
 | systems | micros                                        |
 |---------+-----------------------------------------------|
